@@ -49,7 +49,7 @@ To understand the working of the **K-Nearest Neighbors (KNN)** algorithm and imp
 You can use any classification dataset.  
 **Example:** *Iris Dataset*  
 🔗 [Click here to download dataset](https://www.kaggle.com/datasets/uciml/iris/data/Iris.cvs)
-
+[Hand-Written Notes](file:///C:/Users/Dell/AppData/Local/Microsoft/Windows/INetCache/IE/1K86WGYW/New_Doc_06-03-2025_14.27[1].pdf)
 ---
 
 ## 📌 Notes
